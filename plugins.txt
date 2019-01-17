@@ -1,2 +1,3 @@
 configuration-as-code-support:latest
 job-dsl:latest
+ssh-credentials:latest
