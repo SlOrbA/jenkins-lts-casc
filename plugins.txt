@@ -2,3 +2,4 @@ configuration-as-code-support:latest
 job-dsl:latest
 ssh-credentials:latest
 jdk-tool:latest
+git:latest
