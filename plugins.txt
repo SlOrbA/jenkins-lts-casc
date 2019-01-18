@@ -3,4 +3,3 @@ job-dsl:latest
 ssh-credentials:latest
 jdk-tool:latest
 git:latest
-google-login:latest
