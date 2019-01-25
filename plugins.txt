@@ -3,4 +3,8 @@ job-dsl:latest
 ssh-credentials:latest
 jdk-tool:latest
 git:latest
+github:latest
 hashicorp-vault-plugin:latest
+azure-cli:latest
+azure-ad:latest
+azure-vm-agents:latest
